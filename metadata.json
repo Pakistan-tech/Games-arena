@@ -1,0 +1,6 @@
+{
+  "name": "Arrow Escape: Kinetic Rush",
+  "description": "Tactical arrow puzzle game featuring fluid elastic physics, escalating stage progression, precision timer bonuses, and career lifetime scorecards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
